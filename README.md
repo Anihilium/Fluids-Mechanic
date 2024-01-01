@@ -24,7 +24,7 @@ First scene buttons allow to modify :
 - The pressure on the liquid
 - To refill the tank
 <br /><br /><br />
-![png](./Capture2.png)
+![](./Capture2.PNG)
 
 ## **ATTENTION :** 
 - Time is slowed in our second scene 
@@ -33,7 +33,7 @@ Second scene buttons allow to modify :
 - the mass of the particle (g)
 - the viscosity
 
-![png](./Capture.png)
+![](./Capture.PNG)
 <br /><br /><br />
 
 ## **Formula used :**
